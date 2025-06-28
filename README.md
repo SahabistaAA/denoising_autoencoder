@@ -25,7 +25,6 @@ Core objectives:
 - ✅ **Convolutional Autoencoder** with encoder–decoder layers.
 - ✅ Support for multiple **noise types**: Gaussian, Poisson, etc.
 - ✅ Training with **MSE**, **SSIM**, or custom loss functions.
-- ✅ **TensorBoard logging** for visualizing loss, PSNR, and SSIM.
 - ✅ **Jupyter demo notebook** to visually inspect denoising results.
 - ✅ Modular code for adding new architectures or loss metrics.
 
